@@ -15,6 +15,8 @@ This template is set up to be used with the [Stellaris Mod Deploy Action](https:
 ## Installation
 Instructions here.
 
+## Credits
+Credits here.
 
 ## License
 Initiated with:
