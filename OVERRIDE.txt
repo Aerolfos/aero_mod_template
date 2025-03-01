@@ -1,0 +1,4 @@
+extra_loc_files_to_update={
+	"localisation/english/test_mod_version.yml"
+}
+version_loc_key="test_mod_version"
